@@ -11,3 +11,12 @@ Insertion sort
 [2, 5, 7, 2, 6]
 [2, 2, 5, 7, 6]
 [2, 2, 5, 6, 7]
+
+Bonus Insertion Sort
+[G, e, n, E, R, a, L]
+[e, G, n, E, R, a, L]
+[e, n, G, E, R, a, L]
+[e, n, E, G, R, a, L]
+[e, n, E, G, R, a, L]
+[a, e, n, E, G, R, L]
+[a, e, n, E, G, L, R]
